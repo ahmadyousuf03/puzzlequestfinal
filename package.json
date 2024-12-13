@@ -1,0 +1,20 @@
+{
+  "name": "puzzlequestfinal",
+  "version": "1.0.0",
+  "description": "A Puzzle Quest game API with frontend interactivity using Express.js and Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}

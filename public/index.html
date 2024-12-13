@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle Quest</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start-screen">
+        <h1>Puzzle Quest</h1>
+        <p>Challenge yourself with a series of engaging puzzles.</p>
+        <input id="player-input" type="text" placeholder="Enter your name" />
+        <button id="start-button">Start Game</button>
+    </div>
+
+    <div id="game-container" style="display: none;">
+        <div id="game-header">
+            <h2 id="puzzle-question"></h2>
+            <button id="hint-button">Get Hint</button>
+            <button id="dark-mode-toggle">Toggle Dark Mode</button>
+        </div>
+        <div id="game-input">
+            <input id="answer-input" type="text" placeholder="Your answer" />
+            <button id="submit-button">Submit Answer</button>
+        </div>
+        <div id="progress-container">
+            <div class="progress-bar"><div class="progress"></div></div>
+        </div>
+    </div>
+
+    <div id="leaderboard-container" style="display: none;">
+        <h2>Leaderboard</h2>
+        <ul id="leaderboard-list"></ul>
+        <button id="restart-button">Restart Game</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

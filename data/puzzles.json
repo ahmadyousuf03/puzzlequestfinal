@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "question": "What travels around the world but stays in a corner?",
+        "answer": "stamp",
+        "hint": "It's something used to send mail."
+    },
+    {
+        "id": "2",
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+        "answer": "echo",
+        "hint": "It’s a sound phenomenon."
+    },
+    {
+        "id": "3",
+        "question": "The more you take, the more you leave behind. What am I?",
+        "answer": "footsteps",
+        "hint": "It's a metaphor for progress."
+    },
+    {
+        "id": "4",
+        "question": "What gets wetter as it dries?",
+        "answer": "towel",
+        "hint": "You use it after a shower."
+    },
+    {
+        "id": "5",
+        "question": "What has cities but no houses, forests but no trees, and rivers but no water?",
+        "answer": "map",
+        "hint": "It's a geographical tool."
+    },
+    {
+        "id": "6",
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+        "answer": "echo",
+        "hint": "It's a sound phenomenon."
+    },
+    {
+        "id": "7",
+        "question": "The more you take, the more you leave behind. What am I?",
+        "answer": "footsteps",
+        "hint": "It's a metaphor for progress."
+    },
+    {
+        "id": "8",
+        "question": "What has a head, a tail, but no body?",
+        "answer": "coin",
+        "hint": "It's a form of currency."
+    },
+    {
+        "id": "9",
+        "question": "What starts with 'P', ends with 'E', and has thousands of letters?",
+        "answer": "post office",
+        "hint": "It's a place for mailing letters."
+    },
+    {
+        "id": "10",
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "m",
+        "hint": "It's a letter of the alphabet."
+    }
+]
